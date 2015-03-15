@@ -1,4 +1,4 @@
 # Summary
 
-* JavaScript Types
+* [JavaScript Types](javascript_types.md)
 
